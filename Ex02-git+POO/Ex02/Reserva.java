@@ -1,3 +1,5 @@
+package Ex02;
+
 public class Reserva {
     private int id;
     private Hospede hospede;
